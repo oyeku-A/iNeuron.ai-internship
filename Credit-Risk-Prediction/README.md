@@ -108,12 +108,12 @@ Before getting started, make sure you have the following installed on your machi
 Once you have this installed, open a terminal on your local machine and run the following commands:
 
 1. Clone the repository:
-<pre>https://github.com/oyeku-A/iNeuron.ai-internship/Credit-Risk-Prediction-German-Bank.git
+<pre>https://github.com/oyeku-A/iNeuron.ai-internship/Credit-Risk-Prediction.git
 </pre>
 
 1. Navigate to the cloned repository directory:
 <pre>
-cd Credit-Risk-Prediction-German-Bank
+cd Credit-Risk-Prediction
 </pre>
 
 1. Create a virtual environment:
